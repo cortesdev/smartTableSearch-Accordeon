@@ -1,0 +1,12 @@
+{
+  "name": "jquery-functions",
+  "version": "0.1.0",
+  "repository": "cortesdev/jquery-functions",
+  "license": "MIT",
+  "devDependencies": {
+	"grunt": "0.4.5",
+	"grunt-contrib-watch": "~0.6.1",
+	"grunt-contrib-sass": "latest",
+	"grunt-sass": "latest"
+   }
+}
